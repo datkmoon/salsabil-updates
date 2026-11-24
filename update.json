@@ -1,9 +1,4 @@
 {
-  "latest_version_code": 1,
-  "latest_version_name": "1.1.0",
-  "apk_download_url": "https://github.com/USERNAME/REPO/releases/download/v1.1.0/salsabil-v1.1.0.apk",
-  "changelog": "• تحسين سرعة التصفح والقراءة في المصحف الشريف.\n• إضافة قرّاء جدد وتحسين إشعارات الأذان.\n• إصلاحات عامة وتحسين الأداء.",
-  "force_update": false,
   "announcement_banner": {
     "enabled": true,
     "title_ar": "أهلاً بكم في سلسبيل",
@@ -59,5 +54,10 @@
       "category_ar": "تحديث مباشر",
       "category_en": "Live Update"
     }
-  ]
+  ],
+  "latest_version_code": 1,
+  "latest_version_name": "1.1.0",
+  "apk_download_url": "https://github.com/USERNAME/REPO/releases/download/v1.1.0/salsabil-v1.1.0.apk",
+  "changelog": "• تحسين سرعة التصفح والقراءة في المصحف الشريف.\n• إضافة قرّاء جدد وتحسين إشعارات الأذان.\n• إصلاحات عامة وتحسين الأداء.",
+  "force_update": true
 }
