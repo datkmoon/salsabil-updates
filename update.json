@@ -1,0 +1,63 @@
+{
+  "latest_version_code": 1,
+  "latest_version_name": "1.1.0",
+  "apk_download_url": "https://github.com/USERNAME/REPO/releases/download/v1.1.0/salsabil-v1.1.0.apk",
+  "changelog": "• تحسين سرعة التصفح والقراءة في المصحف الشريف.\n• إضافة قرّاء جدد وتحسين إشعارات الأذان.\n• إصلاحات عامة وتحسين الأداء.",
+  "force_update": false,
+  "announcement_banner": {
+    "enabled": true,
+    "title_ar": "أهلاً بكم في سلسبيل",
+    "title_en": "Welcome to Salsabil",
+    "message_ar": "نسألكم الدعاء، تمت إضافة تلاوات جديدة وتحديث أوقات الأذان لجميع المحافظات.",
+    "message_en": "New recitations added and prayer times updated worldwide.",
+    "action_url": "https://www.instagram.com/964.wt?bqrl=aTR2OTcxeTMwNzVq",
+    "action_label_ar": "تابع المطور",
+    "action_label_en": "Follow Developer",
+    "dismissible": true
+  },
+  "enabled_sections": {
+    "quran": true,
+    "prayer": true,
+    "tasbih": true,
+    "wisdom": true,
+    "vocabulary": true,
+    "favorites": true
+  },
+  "custom_texts": {
+    "app_tagline_ar": "القرآن الكريم • الأذان • الذكر والحكمة",
+    "app_tagline_en": "Holy Quran • Prayer Times • Dhikr & Wisdom",
+    "quran_notice_ar": "",
+    "quran_notice_en": ""
+  },
+  "remote_links": {
+    "instagram_url": "https://www.instagram.com/964.wt?bqrl=aTR2OTcxeTMwNzVq",
+    "instagram_handle": "@964.wt",
+    "support_url": "",
+    "support_label_ar": "",
+    "support_label_en": ""
+  },
+  "extra_reciters": [
+    {
+      "id": "ota_example_reciter",
+      "name_ar": "قارئ إضافي (مثال)",
+      "name_en": "Extra Reciter (Example)",
+      "style_ar": "مرتل • مضاف عن بُعد",
+      "tradition": "SUNNI",
+      "era": "MODERN",
+      "audio_mode": "AYAH_BY_AYAH",
+      "base_url": "https://everyayah.com/data/Alafasy_128kbps"
+    }
+  ],
+  "extra_quotes": [
+    {
+      "id": 901,
+      "arabic_text": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "translation": "Verily, in the remembrance of Allah do hearts find rest.",
+      "transliteration": "Ala bidhikrillahi tatma'innul qulub",
+      "author_ar": "القرآن الكريم - الرعد ٢٨",
+      "author_en": "Holy Quran 13:28",
+      "category_ar": "تحديث مباشر",
+      "category_en": "Live Update"
+    }
+  ]
+}
