@@ -57,7 +57,7 @@
   ],
   "latest_version_code": 1,
   "latest_version_name": "1.1.0",
-  "apk_download_url": "https://github.com/USERNAME/REPO/releases/download/v1.1.0/salsabil-v1.1.0.apk",
+  "apk_download_url": "https://github.com/datkmoon/REPO/releases/download/v1.1.0/salsabil-v1.1.0.apk",
   "changelog": "• تحسين سرعة التصفح والقراءة في المصحف الشريف.\n• إضافة قرّاء جدد وتحسين إشعارات الأذان.\n• إصلاحات عامة وتحسين الأداء.",
   "force_update": true
 }
